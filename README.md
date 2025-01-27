@@ -45,4 +45,8 @@ Follow these steps to run the project locally:
 2.   **Setup the Database**:
 
 Import the travel_management.sql file (included in the repository) into your MySQL server.
+String url = "jdbc:mysql://localhost:3306/travel_management";
+String username = "your-username";
+String password = "your-password";
+
 
