@@ -49,4 +49,29 @@ Import the travel_management.sql file (included in the repository) into your MyS
 - String username = "your-username";
 - String password = "your-password";
 
+3. **Build and Run the Project**:
+
+- Open the project in NetBeans.
+- Build the project using Clean and Build.
+- Run the project.
+- 
+src/
+├── com.travelmanagement
+│   ├── About.java         # Entry point of the application
+│   ├── Login.java         # User login functionality
+│   ├── Dashboard.java     # Main dashboard UI
+│   ├── AddCustomer.java   # Add customer
+│   ├── ViewCustomer.java  # View customers
+│   ├── BookHotel.java     # Book hotels
+│   ├── CheckPackages.java # Check packages
+│   ├── Destinations.java  # Destinations
+│   ├── Payment.java       # Payment interface
+│   ├── Signup.java        # Signup features
+├── database/
+│   └── travel_management.sql  # Database schema and sample data
+resources/
+├── images/                   # Icons and UI images
+├── docs/                     # Additional documentation and screenshots
+
+
 
