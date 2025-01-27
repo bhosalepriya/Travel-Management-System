@@ -56,24 +56,22 @@ Import the travel_management.sql file (included in the repository) into your MyS
 - Run the project.
 
 
-  **folder structre**
--**src/**
--├── com.travelmanagement
--│   ├── About.java         # Entry point of the application
--│   ├── Login.java         # User login functionality
--│   ├── Dashboard.java     # Main dashboard UI
--│   ├── AddCustomer.java   # Add customer
--│   ├── ViewCustomer.java  # View customers
--│   ├── BookHotel.java     # Book hotels
--│   ├── CheckPackages.java # Check packages
--│   ├── Destinations.java  # Destinations
--│   ├── Payment.java       # Payment interface
--│   ├── Signup.java        # Signup features
--├── database/
--│   └── travel_management.sql  # Database schema and sample data
--**resources/**
--├── images/                   # Icons and UI images
-  -├── docs/                     # Additional documentation and screenshots
-
-
+ ## **Folder Structure**
+src/
+├── com.travelmanagement
+│   ├── About.java         # Entry point of the application
+│   ├── Login.java         # User login functionality
+│   ├── Dashboard.java     # Main dashboard UI
+│   ├── AddCustomer.java   # Add customer
+│   ├── ViewCustomer.java  # View customers
+│   ├── BookHotel.java     # Book hotels
+│   ├── CheckPackages.java # Check packages
+│   ├── Destinations.java  # Destinations
+│   ├── Payment.java       # Payment interface
+│   ├── Signup.java        # Signup features
+├── database/
+│   └── travel_management.sql  # Database schema and sample data
+resources/
+├── images/                   # Icons and UI images
+├── docs/                     # Additional documentation and screenshots
 
