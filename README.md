@@ -75,14 +75,14 @@ Import the travel_management.sql file (included in the repository) into your MyS
 =Copy
 -Edit
 **git push origin feature-name**
-Submit a pull request.
+-Submit a pull request.
 
 
 ## **Contact**
 -For any queries or suggestions, feel free to reach out:
 
-**Author: Priyanka Bhosale**
-**Email: priyanka@9922@gmail.com**
-**GitHub: bhosalepriyanka**
+-**Author: Priyanka Bhosale**
+-**Email: priyanka.bhosale9922@gmail.com**
+-**GitHub: bhosalepriyanka**
 
 
