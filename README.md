@@ -41,3 +41,8 @@ Follow these steps to run the project locally:
    ```bash
    git clone https://github.com/yourusername/travel-management-system.git
    cd travel-management-system
+
+2.   **Setup the Database**:
+
+Import the travel_management.sql file (included in the repository) into your MySQL server.
+
