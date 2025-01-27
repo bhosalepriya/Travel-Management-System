@@ -56,22 +56,33 @@ Import the travel_management.sql file (included in the repository) into your MyS
 - Run the project.
 
 
- ## **Folder Structure**
-src/
-├── com.travelmanagement
-│   ├── About.java         # Entry point of the application
-│   ├── Login.java         # User login functionality
-│   ├── Dashboard.java     # Main dashboard UI
-│   ├── AddCustomer.java   # Add customer
-│   ├── ViewCustomer.java  # View customers
-│   ├── BookHotel.java     # Book hotels
-│   ├── CheckPackages.java # Check packages
-│   ├── Destinations.java  # Destinations
-│   ├── Payment.java       # Payment interface
-│   ├── Signup.java        # Signup features
-├── database/
-│   └── travel_management.sql  # Database schema and sample data
-resources/
-├── images/                   # Icons and UI images
-├── docs/                     # Additional documentation and screenshots
+**Contributing**
+-Contributions are welcome! If you’d like to enhance the project, feel free to:
+
+**Fork the repository**
+-Create a feature branch:
+-bash
+-Copy
+-Edit
+**git checkout -b feature-name**
+-Commit your changes:
+-bash
+-Copy
+-Edit
+**git commit -m 'Add feature-name'**
+-Push to the branch:
+-bash
+=Copy
+-Edit
+**git push origin feature-name**
+Submit a pull request.
+
+
+## **Contact**
+-For any queries or suggestions, feel free to reach out:
+
+**Author: Priyanka Bhosale**
+**Email: priyanka@9922@gmail.com**
+**GitHub: bhosalepriyanka**
+
 
